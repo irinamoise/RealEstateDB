@@ -1,4 +1,4 @@
-
+-- -*- mode: sql; sql-product: oracle; -*-
 --4 
 
 CREATE TABLE ADRESE(
