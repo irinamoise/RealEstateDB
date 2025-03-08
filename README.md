@@ -1,6 +1,6 @@
 # Real Estate Agency Database Project
 
-This project involves the design and implementation of a relational database for a real estate agency in Bucharest. The database will manage information about addresses, property owners, properties, apartments, houses, property details, clients, agents, tenants, buyers, rental agreements, sale-purchase contracts, and property viewings.
+This project involves the design and implementation of a relational database for a real estate agency in Bucharest. The database will manage information about apartments, houses, property owners, clients, agents, tenants, buyers, rental agreements, sale-purchase contracts, and property viewings.
 
 ---
 
